@@ -1,0 +1,93 @@
+body{
+    
+    text-align: justify;
+    font-family: Arial;
+    background-image:url(img/fundo-f1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+     
+   
+}
+
+.imagem{
+    width: 1250px;
+}
+
+
+h1{
+    list-style-image: url(img/bandeira2.jpg);
+    background-color: black;
+    color: white;
+    
+}
+
+
+h2{
+   
+    background-color: black;
+    color: white;
+    
+}
+
+.bandeirinha{
+    list-style-image: url(img/bandeira1.jpg);
+    
+}
+
+.final{
+    text-align: center;
+   
+   
+}
+
+.links{
+    
+    list-style-image: url(img/bandeira1.jpg);
+    
+}
+
+a:link{
+    color: rgb(8, 34, 233);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(208, 247, 15);
+    text-decoration: underline;
+}
+
+.container{
+    overflow: auto;
+}
+
+.bandeira2{
+    float: right;
+    margin-top: -79px;
+    margin-left: 100%;
+   
+}
+
+.container2{
+    overflow: auto;
+}
+
+.bandeira3{
+    float: right;
+    width: 29px;
+    margin-top: -49px;
+    margin-left: 100%;
+
+}
+
+.container3{
+    overflow: auto;
+
+}
+
+.bandeira4{
+    float: right;
+    width: 29px;
+    margin-top: -49px;
+    margin-left: 100px;
+}
